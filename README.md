@@ -1,6 +1,6 @@
 # Modded MIUI Gallery
  
-[![Miui Always On Displau](https://i0.wp.com/www.androidsage.com/wp-content/uploads/2020/04/Download-Always-on-Display-AOD-APK-from-MIUI-12-for-your-Xiaomi-devices.jpg?w=776&quality=100&ssl=1)](https://i0.wp.com/www.androidsage.com/wp-content/uploads/2020/04/Download-Always-on-Display-AOD-APK-from-MIUI-12-for-your-Xiaomi-devices.jpg?w=776&quality=100&ssl=1)
+![Picsart_22-12-14_07-47-34-971](https://user-images.githubusercontent.com/83476983/208218901-924c955b-5dcb-48cc-bfc2-7459c2ca3ae1.jpg)
 
 MIUI Gallery App modified by [Kashi](https://t.me/kakashi1v1) with many features unlocked.
 Its installation is via Magisk on MIUI 12-13 based ROMs with Android 10 or higher.
