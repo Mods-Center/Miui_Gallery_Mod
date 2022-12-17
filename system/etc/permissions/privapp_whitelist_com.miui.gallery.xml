@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<permissions>
+<privapp-permissions package="com.miui.gallery">
+        <permission name="android.permission.INTERACT_ACROSS_USERS"/>
+        <permission name="android.permission.START_FOREGROUND_SERVICES_FROM_BACKGROUND"/>        
+        <permission name="android.permission.WRITE_MEDIA_STORAGE"/>
+        <permission name="android.permission.WRITE_SECURE_SETTINGS"/>
+        <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+        <permission name="mediatek.permission.ACCESS_APU_SYS"/>
+    </privapp-permissions>
+</permissions>
