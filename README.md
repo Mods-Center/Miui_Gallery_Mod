@@ -11,7 +11,7 @@ Its installation is via Magisk on MIUI 12-13 based ROMs with Android 10 or highe
 • Tested and working in Miui 13 A12 but should work in all other Miui Roms as well
 • Misc...
 
-For issues or questions you can send a message in [Telegram](https://t.me/bootloop_discussion) group.
+For issues or questions you can send a message in [Telegram](https://t.me/amogus_discussion) group.
 
 
 ### Download
@@ -34,5 +34,7 @@ Download from [releases page](https://github.com/Mods-Center/Miui_Gallery_Mod/re
 ![photo_2022-12-16_21-10-45](https://user-images.githubusercontent.com/83476983/208219146-1efd9a35-dd55-418b-95ce-cf43dbdd517b.jpg)
 
 
-
+| Download Mods | Total |
+| --- | --- |
+| GitHub Releases | ![GitHub all releases](https://img.shields.io/github/downloads/Mods-Center/Miui_Gallery_Mod/total?logo=GitHub&style=for-the-badge&color=blue) |
 
