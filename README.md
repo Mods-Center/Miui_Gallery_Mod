@@ -13,23 +13,23 @@
 > [!WARNING]
 > **Legacy MIUI project. No longer updated.** It's kept for MIUI 12–13 users. HyperOS users: see [HyperOS Screenshot Mod](https://github.com/Mods-Center/HyperOS-Screenshot-mod). (it has device frames)
 
-## ✨ Features
+## Features
 - Editor features unlocked
 - Device frames
 
-## 📋 Requirements
+## Requirements
 - MIUI 12–13, Android 10 or newer
 - Magisk
 
-## 📥 Installation
+## Installation
 1. Download the latest zip from [**Releases**](https://github.com/Mods-Center/Miui_Gallery_Mod/releases/latest).
 2. Flash it in Magisk.
 3. Reboot your device.
 
-## ⚠️ Notes
+## Notes
 - If you use this in your ROM, please credit Mods Center. Not for paid ROMs.
 
-## 📸 Screenshots
+## Screenshots
 <p align="center">
   <img src="https://user-images.githubusercontent.com/83476983/208218901-924c955b-5dcb-48cc-bfc2-7459c2ca3ae1.jpg" width="23%" alt="MIUI Gallery"/>
   <img src="https://user-images.githubusercontent.com/83476983/208219138-33ac1062-57d0-4acd-af10-6f24ef56b3aa.jpg" width="23%" alt="MIUI Gallery"/>
@@ -45,8 +45,8 @@
 
 <div align="center">
 
-Made by **[Kashi](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
+Made by **[🅺🅰🆂🅷🅸](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
 
-[📢 Channel](https://t.me/kashis_cringey_stuffs) · [💬 Support group](https://t.me/bootloop_discussion) · [🐞 Report a bug](https://github.com/Mods-Center/Miui_Gallery_Mod/issues)
+[Channel](https://t.me/kashis_cringey_stuffs) · [Support group](https://t.me/bootloop_discussion) · [Report a bug](https://github.com/Mods-Center/Miui_Gallery_Mod/issues)
 
 </div>
